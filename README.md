@@ -1,2 +1,2 @@
 # TestRepo
-Test repository for training.
+Test repository for training!
